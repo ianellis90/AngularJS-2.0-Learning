@@ -1,0 +1,29 @@
+{
+  "name": "angular2-learning",
+  "version": "1.0.0",
+  "description": "angular2 learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianellis90/AngularJS-2.0-Learning.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "Ian Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianellis90/AngularJS-2.0-Learning/issues"
+  },
+  "homepage": "https://github.com/ianellis90/AngularJS-2.0-Learning#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.21",
+    "es6-shim": "^0.35.2",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.6",
+    "zone.js": "^0.6.26"
+  }
+}
